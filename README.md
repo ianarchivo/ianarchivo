@@ -1,9 +1,11 @@
 # Hi, I'm Ian 👋
 
-## 🚀 Full-Stack Developer | SaaS & FinTech | Real-Time Systems
+## 🚀 Full-Stack Developer
 
 Hey! I’m **Ian Colin**, a **Full-Stack Developer** from **Mexico City** with **7+ years** building modern, scalable apps.  
+
 I enjoy designing smooth user experiences, writing clean code, and deploying systems that can handle real-time traffic.  
+
 I love building products that people actually use.
 
 ---
@@ -44,6 +46,3 @@ I love building products that people actually use.
 </p>
 
 ---
-
-✨ *I build things that work, look great, and scale.*  
-Let’s connect and create something amazing 🚀
