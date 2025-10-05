@@ -1,7 +1,5 @@
 # Hi, I'm Ian 👋
 
-<img src="https://i.imgur.com/hm89zTu.png" alt="banner" width="100%"/>
-
 ## 🚀 Full-Stack Developer | SaaS & FinTech | Real-Time Systems
 
 Hey! I’m **Ian Colin**, a **Full-Stack Developer** from **Mexico City** with **7+ years** building modern, scalable apps.  
