@@ -1,22 +1,18 @@
 # Hi, I'm Ian 👋
 
-## 🚀 Full-Stack Developer
+## Full-Stack Developer
 
 Hey! I’m **Ian Colin**, a **Full-Stack Developer** from **Mexico City** with **7+ years** building modern, scalable apps.  
-
-I enjoy designing smooth user experiences, writing clean code, and deploying systems that can handle real-time traffic.  
 
 I love building products that people actually use.
 
 ---
 
-### 💡 What I Do
+### ⚡ What I Do
 - 🧱 I design and build **end-to-end web and mobile apps**  
-- ⚡ Create **real-time platforms** with **Next.js**, **PostgreSQL**, and **Supabase**  
 - 🧠 Solve complex problems with **scalable backend logic**  
 - 💬 Speak **English (Advanced)** and **Spanish (Native)**  
 - 🎯 Passionate about **FinTech**, **SaaS**, and **automation**
-
 ---
 
 ### 🧠 Tech Stack
