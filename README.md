@@ -22,7 +22,7 @@ I'm **Ian Colin**, a fullstack developer from México City.
 - Used by **thousands of users** in Latin America.
 > 
 ---
-👉 I’ve also built other products that were discontinued — but each one taught me something new. I ship, test, learn, and improve.
+- 👉 I’ve also built other products that were discontinued — but each one taught me something new. I ship, test, learn, and improve.
 ---
 
 ### 🧠 Tech Stack
