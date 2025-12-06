@@ -1,6 +1,6 @@
 # Hi, I'm Ian 👋
 
-## Full-Stack Developer | México City 🇲🇽
+## Full-Stack Developer | México City
 
 I'm **Ian Colin**, a fullstack developer from México City.  
 
