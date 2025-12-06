@@ -18,8 +18,8 @@ I'm **Ian Colin**, a fullstack developer from México City.
 - Reduced manual operations for cybersecurity teams
 
 #### 🎄 **Navidapp.com**
-> Free platform for creating **gift exchange groups (Secret Santa)**.  
-Used by **thousands of users** in Latin America.
+- Free platform for creating **gift exchange groups (Secret Santa)**.  
+- Used by **thousands of users** in Latin America.
 > 
 ---
 👉 I’ve also built other products that were discontinued — but each one taught me something new. I ship, test, learn, and improve.
