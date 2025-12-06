@@ -1,4 +1,4 @@
-content = """# Hi, I'm Ian 👋
+# Hi, I'm Ian 👋
 
 ## Full-Stack Developer | México City 🇲🇽
 
