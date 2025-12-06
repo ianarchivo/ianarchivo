@@ -1,35 +1,44 @@
-# Hi, I'm Ian 👋
+content = """# Hi, I'm Ian 👋
 
-## Full-Stack Developer
+## Full-Stack Developer | México City 🇲🇽
 
-Hey! I’m **Ian Colin**, a **Full-Stack Developer** from **Mexico City** with **7+ years** building modern, scalable apps.  
+I'm **Ian Colin**, a fullstack developer from México City.  
 
-I love building products that people actually use.
+### My Projects
+#### **Rifacil.com**
+> A platform to create online raffles with real-time analytics and secure audited results.
+- Results based on **Lotería Nacional** or **Bitcoin Blockchain hashes**
+- Automated booking, occupancy & metrics (views, ticket status, etc.)
+- Customizable pages (logo, images, description)
+- Supports multiple payment methods + direct payment mode
 
+#### **Sploi.com**
+> A **Pentesting-as-a-Service** platform that connects security professionals with clients.
+- Automated management of security scans & reports
+- Reduced manual operations for cybersecurity teams
+
+#### 🎄 **Navidapp.com**
+> Free platform for creating **gift exchange groups (Secret Santa)**.  
+Used by **thousands of users** in Latin America.
+> 
 ---
-
-### ⚡ What I Do
-- 🧱 I design and build **end-to-end web and mobile apps**  
-- 🧠 Solve complex problems with **scalable backend logic**  
-- 💬 Speak **English (Advanced)** and **Spanish (Native)**  
-- 🎯 Passionate about **FinTech**, **SaaS**, and **automation**
+👉 I’ve also built other products that were discontinued — but each one taught me something new. I ship, test, learn, and improve.
 ---
 
 ### 🧠 Tech Stack
 
-**Frontend:** React, Next.js, React Native, TypeScript, JavaScript, HTML, CSS  
+**Frontend:** React, Next.js, React Native, GatsbyJS, TypeScript, JavaScript, HTML, CSS  
 **Backend:** Node.js (NestJS, Express), REST APIs, GraphQL, Serverless, JWT  
-**Databases:** PostgreSQL, Supabase, MongoDB, Firebase  
-**Tools:** Git, Docker, Vercel, AWS, Cloudflare, Postman  
-**Design:** Figma, Photoshop, Illustrator  
-**Other:** Agile, Meta Ads (learning), SEO optimization
+**Databases:** PostgreSQL, Supabase (Auth, RLS, Realtime), MongoDB, Firebase  
+**DevOps & Tools:** Git, Docker, Vercel, Netlify, Render, Cloudflare, Postman  
+**Design:** Figma, Photoshop, Illustrator, Blender
 
 ---
 
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,git,html,css,docker,aws,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,reactnative,nodejs,nestjs,postgres,supabase,git,html,css,docker,aws,vercel,figma" />
 </p>
 
 ---
@@ -42,3 +51,7 @@ I love building products that people actually use.
 </p>
 
 ---
+
+### Want to collaborate?
+I’m open to new projects, especially in **SaaS, FinTech**
+"""
