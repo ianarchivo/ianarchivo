@@ -10,7 +10,7 @@
 
 ### `Tech Stack`
 
-<img width="396" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,gatsby,nodejs,nestjs,express,graphql,postgres,supabase,mongodb,firebase,docker,git,vercel,netlify,cloudflare,figma&perline=10" align="bottom" /> <img src="assets/expo.svg" width="40" height="40" align="bottom" alt="Expo"/>
+<img width="396" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,gatsby,tailwind,nodejs,nestjs,express,graphql,postgres,supabase,mongodb,firebase,docker,git,vercel,netlify,cloudflare,figma&perline=10" />
 
 ### `Connect`
 
