@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&pause=1000&color=8B949E&center=true&vCenter=true&width=420&height=50&lines=Ian+Colin" alt="Ian Colin" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=1500&pause=800&color=8B949E&center=true&vCenter=true&width=420&height=50&lines=~+Ian+Colin" alt="Ian Colin" />
 
-`Full Stack Developer` 🇲🇽
+**Full Stack Developer** 🇲🇽
 
 ### `My Projects`
 
-[<u>**Sploi**</u>](https://sploi.com) · [<u>**Rifacil**</u>](https://rifacil.com) · [<u>**Navidapp**</u>](https://navidapp.com)
+<img src="https://www.google.com/s2/favicons?domain=sploi.com&sz=32" width="16" height="16"/> [<u>**Sploi**</u>](https://sploi.com) &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=rifacil.com&sz=32" width="16" height="16"/> [<u>**Rifacil**</u>](https://rifacil.com) &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=navidapp.com&sz=32" width="16" height="16"/> [<u>**Navidapp**</u>](https://navidapp.com)
 
 ### `Tech Stack`
 
