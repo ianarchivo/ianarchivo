@@ -6,11 +6,12 @@
 
 ### `My Projects`
 
-<img src="https://www.google.com/s2/favicons?domain=sploi.com&sz=32" width="16" height="16"/> [<u>**Sploi**</u>](https://sploi.com) &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=rifacil.com&sz=32" width="16" height="16"/> [<u>**Rifacil**</u>](https://rifacil.com) &nbsp;·&nbsp; <img src="https://www.google.com/s2/favicons?domain=navidapp.com&sz=32" width="16" height="16"/> [<u>**Navidapp**</u>](https://navidapp.com)
+<a href="https://sploi.com"><img src="https://www.google.com/s2/favicons?domain=sploi.com&sz=32" width="16" height="16" align="absmiddle"/> <img src="assets/sploi.svg" height="20" align="absmiddle" alt="Sploi"/></a> &nbsp;·&nbsp; <a href="https://rifacil.com"><img src="https://www.google.com/s2/favicons?domain=rifacil.com&sz=32" width="16" height="16" align="absmiddle"/> <img src="assets/rifacil.svg" height="20" align="absmiddle" alt="Rifacil"/></a> &nbsp;·&nbsp; <a href="https://navidapp.com"><img src="https://www.google.com/s2/favicons?domain=navidapp.com&sz=32" width="16" height="16" align="absmiddle"/> <img src="assets/navidapp.svg" height="20" align="absmiddle" alt="Navidapp"/></a>
 
 ### `Tech Stack`
 
-<img width="480" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,reactnative,gatsby,nodejs,nestjs,express,graphql,postgres,supabase,mongodb,firebase,docker,git,vercel,netlify,cloudflare,figma,photoshop,blender&perline=11" />
+<img width="440" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,gatsby,nodejs,nestjs,express,graphql,postgres,supabase,mongodb,firebase,docker,git,vercel,netlify,cloudflare,figma&perline=10" />
+<img src="https://cdn.simpleicons.org/expo/white" width="34" height="34" align="absmiddle" alt="Expo"/>
 
 ### `Connect`
 

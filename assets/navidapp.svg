@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="22" viewBox="0 0 86 22" role="img" aria-label="Navidapp">
+  <style>
+    text{font-family:'Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:15px;font-weight:700;fill:#1f2328;text-decoration:underline}
+    @media (prefers-color-scheme: dark){text{fill:#ffffff}}
+  </style>
+  <text x="1" y="16">Navidapp</text>
+</svg>
