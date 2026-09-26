@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&letterSpacing=-1px&duration=1500&pause=800&color=8B949E&center=true&vCenter=true&width=420&height=40&lines=~+Ian+M+Colin" alt="Ian M Colin" />
 
-**Full Stack Developer** 🇲🇽
+**Software Developer** 🇲🇽
 
 ### `My Projects`
 
